@@ -5,7 +5,7 @@ Este repositório contém as resoluções dos exercícios propostos no **Mundo 1
 
 ## 📚 Sobre o curso
 
-O curso é voltado para iniciantes e aborda os primeiros conceitos da programação com a linguagem Python, como:
+O curso aborda os primeiros conceitos da programação com a linguagem Python, como:
 
 - Variáveis e tipos primitivos
 - Operadores aritméticos
